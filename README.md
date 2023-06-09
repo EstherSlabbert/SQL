@@ -1,5 +1,5 @@
 # SQL
-Using SQL working with student data
+Using SQL working with student data.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -31,7 +31,6 @@ Using SQL working with student data
 
 This repository contains programs that handle student data created on Visual Studio Code using Python and using SQL.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -61,7 +60,6 @@ To get a local copy up and running follow these simple example steps.
 3.  Run program(s) as you see fit.
    I used Visual Studio Code for Python which can be found here: https://code.visualstudio.com/download.
    And SQLite browser IDE: https://sqliteonline.com/
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
